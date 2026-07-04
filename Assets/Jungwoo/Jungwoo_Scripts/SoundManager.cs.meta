@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c96cbe3fd118f0e4992e2abddd3e6b03
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - sfxSource: {instanceID: 0}
+  - clickSound: {fileID: 8300000, guid: 967f7e1fb91e67843acf51fd3f1cdd3f, type: 3}
+  - bgmSource: {instanceID: 0}
+  - bgmClip: {fileID: 8300000, guid: 1e653c6476a520b4db377ebc01f56a5e, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

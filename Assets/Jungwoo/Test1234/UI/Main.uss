@@ -1,0 +1,29 @@
+.menu-btn {
+  width: 220px;
+  height: 56px;
+  margin-bottom: 12px;
+
+  padding-left: 16px; padding-right: 16px;
+
+  background-color: #EEF2F8;
+  border-width: 0;
+  border-radius: 16px;
+
+  color: #111111;
+  -unity-text-align: middle-left; /* 좌정렬 느낌 */
+}
+
+/* 호버 */
+.menu-btn:hover {
+  background-color: #E5EBFA;
+}
+
+/* 선택됨 */
+.menu-btn.selected {
+  background-color: #3D6CFF;
+  color: white;
+}
+
+/* 버튼 내부 라벨에 색상 전파 보장 */
+.menu-btn .unity-text-element { color: inherit; }
+.menu-btn.selected .unity-text-element { color: white; }
